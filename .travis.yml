@@ -2,3 +2,8 @@ language: java
 
 jdk:
   - openjdk15
+
+deploy:
+  provider: heroku
+  api_key: b7f21cd3-cfc2-419d-aee6-1a6bb7022354
+    secure: "YOUR ENCRYPTED API KEY"
