@@ -5,6 +5,5 @@ jdk:
 
 deploy:
   provider: heroku
-  api_key:
-    secure: b7f21cd3-cfc2-419d-aee6-1a6bb7022354
+  api_key: b7f21cd3-cfc2-419d-aee6-1a6bb7022354
   app: willsapp69
